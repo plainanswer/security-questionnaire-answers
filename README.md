@@ -1,6 +1,6 @@
 # Security questionnaire answers for companies that don't have SOC 2
 
-Plain-language model answers to the ~90 questions that keep showing up in enterprise security
+Plain-language model answers to the 101 questions that keep showing up in enterprise security
 questionnaires, written for a company of one to ten people that does **not** have SOC 2, ISO
 27001, a security team, or a compliance budget.
 
@@ -17,7 +17,7 @@ the same risk at our size."**
 | | |
 |---|---|
 | 📘 **[The method](guides/answering-honestly.md)** | One page. How to answer honestly when the honest answer is "no". Read this first. |
-| 📂 **[The answer bank](answers/)** | ~90 questions across 11 sections, with model answers and the reasoning behind each. |
+| 📂 **[The answer bank](answers/)** | 101 questions across 11 sections, with model answers and the reasoning behind each. |
 | 🚫 **[They've asked for your SOC 2](guides/no-soc-2-what-to-say.md)** | What to say, in order, when you don't have one and won't this quarter. |
 | 🌐 **[What goes on a security page](guides/what-goes-on-a-trust-page.md)** | The public page that answers a third of the questionnaire before it's sent. |
 | ✋ **[What you must answer yourself](guides/questions-you-must-answer-yourself.md)** | The five places this repo deliberately stops, and why copying there does damage. |
